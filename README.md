@@ -9,8 +9,8 @@ There are different types of image data and we know that Convolutional Neural Ne
  
  # How many types of Papaya disease  
 1. There are differents types of sopt are counted as disease and that's are
-   (i) Black Spot,
-   (ii) Brown Spot
+(i) Black Spot,
+(ii) Brown Spot
 1. There are differents types of blight are counted as disease and that's are
-   (i) Phytophthora, 
-   (ii) Anthracnose
+(i) Phytophthora, 
+(ii) Anthracnose
