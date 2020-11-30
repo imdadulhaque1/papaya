@@ -14,7 +14,7 @@ There are different types of image data and we know that Convolutional Neural Ne
 
 (ii) Brown Spot
 
-1. There are differents types of blight are counted as disease and that's are
+2. There are differents types of blight are counted as disease and that's are
 
 (i) Phytophthora, 
 
