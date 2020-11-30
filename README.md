@@ -6,3 +6,11 @@ Now, 184images are for training where disease images are 150 and fresh images ar
 # Image data size
 There are different types of image data and we know that Convolutional Neural Network (CNN) doesn’t work on different types of image data.
  So we converted all the image data into a single size as 200x200 as target_size and we also fixed the input size as 200x200 when we buildup CNN model. 
+ 
+ # How many types of Papaya disease  
+1. There are differents types of sopt are counted as disease and that's are
+   (i) Black Spot
+   (ii) Brown Spot
+1. There are differents types of blight are counted as disease and that's are
+   (i) Phytophthora, 
+   (ii) Anthracnose
